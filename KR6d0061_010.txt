@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:46.278874
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:01
 #+TITLE: 法華三大部科文
 #+PROPERTY: CBETA_ID X27n0584
 #+PROPERTY: ID KR6d0061
