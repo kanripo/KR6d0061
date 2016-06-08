@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:46.637060
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:01
 #+TITLE: 法華三大部科文
 #+PROPERTY: CBETA_ID X27n0584
 #+PROPERTY: ID KR6d0061
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 27, No. 584
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0061_X_016-0936a> 
 #+PROPERTY: JUAN 16
-
- 摩訶止觀科文卷第五¶
+摩訶止觀科文卷第五¶
 天台沙門釋　湛然　述¶
 ¶
 
@@ -342,7 +341,7 @@
   
   * 初法
 <pb:KR6d0061_X_016-0940a>¶
-  * 二如廉下譬¶
+  * 二如亷下譬¶
   * 三特勝下合¶
   * 二特勝下正釋(二)¶
   
@@ -1329,7 +1328,7 @@
   * 初明藏通(二)¶
   
   * 初藏¶
-  * 二通教下通¶
+  * 三通教下通¶
   * 二界內下判自他¶
   * 三別教下明別圓(二)¶
   

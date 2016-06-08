@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:46.580077
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:01
 #+TITLE: 法華三大部科文
 #+PROPERTY: CBETA_ID X27n0584
 #+PROPERTY: ID KR6d0061
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 27, No. 584
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0061_X_015-0911a> 
 #+PROPERTY: JUAN 15
-
- 摩訶止觀科文卷第四¶
+摩訶止觀科文卷第四¶
 天台沙門釋　湛然　述¶
 ¶
 
@@ -590,7 +589,7 @@
   * 二居二下住處不淨¶
   * 三既出下自相不淨¶
   * 四其中下自性不淨¶
-  * 五一旦下究竟不淨¶
+  * 五一旦下究意不淨¶
   * 三如是結¶
   * 二又復下觀受是苦¶
   * 三又復下觀心無常¶

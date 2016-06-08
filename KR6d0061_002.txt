@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:45.819992
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:01
 #+TITLE: 法華三大部科文
 #+PROPERTY: CBETA_ID X27n0584
 #+PROPERTY: ID KR6d0061
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 27, No. 584
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0061_X_002-0575a> 
 #+PROPERTY: JUAN 2
-
- 天台法華玄義科文第二¶
+天台法華玄義科文第二¶
 天台沙門釋　湛然　述¶
 ¶
 

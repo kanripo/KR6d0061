@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:46.507217
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:01
 #+TITLE: 法華三大部科文
 #+PROPERTY: CBETA_ID X27n0584
 #+PROPERTY: ID KR6d0061
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 27, No. 584
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0061_X_014-0876a> 
 #+PROPERTY: JUAN 14
-
- 摩訶止觀科文卷第三¶
+摩訶止觀科文卷第三¶
 天台沙門釋　湛然　述¶
 ¶
 
@@ -713,7 +712,7 @@
   * 三然敬下判存二宗而非全用¶
   * 四今師下明今師意¶
   * 五若論下今師判利鈍¶
-  * 二已說下正釋(二)¶
+  * 二巳說下正釋(二)¶
   
   * 初結前生後¶
   * 二師應下正釋(二)¶
@@ -1206,7 +1205,7 @@
   * 初列十使(二)¶
   
   * 初利¶
-  * 二是已下鈍¶
+  * 二是巳下鈍¶
   * 二如是下歷三界結數¶
   * 二餘三下餘三見例¶
   * 三若歷下廣歷六十二見(二)¶
